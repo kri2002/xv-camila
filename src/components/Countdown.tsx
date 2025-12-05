@@ -49,7 +49,7 @@ export function Countdown() {
       <div className="relative h-[60vh] w-full overflow-hidden">
         <div
           className="absolute inset-0 bg-cover bg-center bg-no-repeat"
-          style={{ backgroundImage: 'url("/foto1.jpeg")' }}
+          style={{ backgroundImage: 'url("/foto.jpeg")' }}
         >
           <div className="from-midnight via-midnight/60 absolute inset-0 bg-linear-to-r to-transparent" />
         </div>
