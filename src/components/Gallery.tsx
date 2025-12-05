@@ -20,11 +20,11 @@ interface CardProps {
 }
 
 const photos: Photo[] = [
-  { id: 1, src: "/foto1.jpeg", rotate: -12 },
+  { id: 1, src: "/foto.jpeg", rotate: -12 },
   { id: 2, src: "/foto.jpeg", rotate: 15 },
-  { id: 3, src: "/foto1.jpeg", rotate: -8 },
+  { id: 3, src: "/foto.jpeg", rotate: -8 },
   { id: 4, src: "/foto.jpeg", rotate: 10 },
-  { id: 5, src: "/foto1.jpeg", rotate: -15 },
+  { id: 5, src: "/foto.jpeg", rotate: -15 },
   { id: 6, src: "/foto.jpeg", rotate: 6 },
 ]
 
